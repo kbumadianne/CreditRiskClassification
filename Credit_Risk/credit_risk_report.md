@@ -1,11 +1,12 @@
-# Module 12 Report Template
+# Credit Risk Report
 
-## Overview of the Analysis
+## Credit Risk Analysis
 
-In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
+The below data and analysis was taken into consideration for the Credit Risk Report:
 
-* Explain the purpose of the analysis.
-* Explain what financial information the data was on, and what you needed to predict.
+* The purpose of this analysis was to build a model that can determine the creditworthiness of loan borrowers.
+* The dataset is historical lending activity from a peer-to-peer lending services company, inclusive of loan size, interest rate, borrower income, debt to income, num of     accounts, derogatory marks, total debt, and loan status.
+* Using the above data points from historical lending, this analysis is trying to make correlations and predictions on if a loan would be healthy or high-risk.
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
