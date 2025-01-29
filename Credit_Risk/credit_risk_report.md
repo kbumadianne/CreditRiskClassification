@@ -5,7 +5,15 @@
 The below data and analysis was taken into consideration for the Credit Risk Report:
 
 * The purpose of this analysis was to build a model that can determine the creditworthiness of loan borrowers.
-* The dataset is historical lending activity from a peer-to-peer lending services company, inclusive of loan size, interest rate, borrower income, debt to income, num of     accounts, derogatory marks, total debt, and loan status.
+* The dataset is historical lending activity from a peer-to-peer lending services company, inclusive of 
+    * loan size
+    * interest rate
+    * borrower income
+    * debt to income
+    * number of accounts
+    *  derogatory marks
+    * total debt
+    * loan status.
 * Using the above data points from historical lending, this analysis is trying to make correlations and predictions on if a loan would be healthy or high-risk.
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
 * Describe the stages of the machine learning process you went through as part of this analysis.
